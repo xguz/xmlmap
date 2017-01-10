@@ -2,10 +2,10 @@
 gem 'xmlmap'
 require 'xmlmap'
 
-ActiveSupport::Inflector.inflections do |inflect|
-  inflect.irregular 'game', 'games'
-  inflect.irregular 'screenshot', 'screenshots'
-end
+#if a pluralization you need isnt already covered by ActiveSupport, then you'll need to add it like this:
+#ActiveSupport::Inflector.inflections do |inflect|
+  #inflect.irregular 'rohir', 'rohirrim'
+#end
 
 class Game < Xmlmap
 set_url './games.xml'
