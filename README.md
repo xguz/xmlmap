@@ -1,5 +1,5 @@
 # xmlmap
-An active record like lib for parsing xml files, with which you can define relations with has_many and conditions, letting you do ::all and #<relation name>. Paths can be defined using css paths or xpath. 
+An active record like lib for parsing xml files, with which you can define relations with has_many and conditions, letting you do ::all and #relation_plural_name. Paths can be defined using css paths or xpath. 
 
 Install
 
