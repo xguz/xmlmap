@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<data>
+	<categories>
+		<category>RTS</category>
+		<category>Adventure</category>
+		<category>FPS</category>
+	<categories>
+
+<game>
+	<title>Starcraft</title>
+ <screenshot>http://fake.com/starcraft1.jpg</screenshot> 
+ <screenshot>http://fake.com/starcraft2.jpg</screenshot> 
+ <screenshot>http://fake.com/starcraft3.jpg</screenshot> 
+ <categories>RTS</categories>
+</game>
+
+<game>
+	<title>Full throttle</title>
+ <screenshot>http://fake.com/fullthrottle1.jpg</screenshot> 
+ <screenshot>http://fake.com/fullthrottle2.jpg</screenshot> 
+ <screenshot>http://fake.com/fullthrottle3.jpg</screenshot> 
+ <categories>Adventure</categories>
+</game>
+
+
+<game>
+	<title>Command and Conquer - Red Alert</title>
+ <screenshot>http://fake.com/redalert1.jpg</screenshot> 
+ <screenshot>http://fake.com/redalert2.jpg</screenshot> 
+ <screenshot>http://fake.com/redalert3.jpg</screenshot> 
+ <categories>RTS</categories>
+</game>
+
+<game>
+	<title>Day of the tentactle</title>
+ <screenshot>http://fake.com/dott1.jpg</screenshot> 
+ <screenshot>http://fake.com/dott2.jpg</screenshot> 
+ <screenshot>http://fake.com/dott3.jpg</screenshot> 
+ <categories>Adventure</categories>
+</game>
+
+
+
+<game>
+	<title>Doom</title>
+ <screenshot>http://fake.com/doom1.jpg</screenshot> 
+ <screenshot>http://fake.com/doom2.jpg</screenshot> 
+ <screenshot>http://fake.com/doom3.jpg</screenshot> 
+ <categories>FPS</categories>
+</game>
+
+<game>
+	<title>Wolfenstein</title>
+ <screenshot>http://fake.com/wolfenstein1.jpg</screenshot> 
+ <screenshot>http://fake.com/wolfenstein2.jpg</screenshot> 
+ <screenshot>http://fake.com/wolfenstein3.jpg</screenshot> 
+ <categories>FPS</categories>
+</game>
+
+<game>
+	<title>Call of duty</title>
+ <screenshot>http://fake.com/callofduty1.jpg</screenshot> 
+ <screenshot>http://fake.com/callofduty2.jpg</screenshot> 
+ <screenshot>http://fake.com/callofduty3.jpg</screenshot> 
+ <categories>FPS</categories>
+</game>
+
+
+
+</data>
