@@ -97,4 +97,29 @@ games.each do |game|
 end
 ```
 
+Running the above will print:
+
+```
+All game titles and screenshots
+ 
+Starcraft
+   http://fake.com/starcraft1.jpg http://fake.com/starcraft2.jpg http://fake.com/starcraft3.jpg
+Full throttle
+   http://fake.com/fullthrottle1.jpg http://fake.com/fullthrottle2.jpg http://fake.com/fullthrottle3.jpg
+Command and Conquer - Red Alert
+   http://fake.com/redalert1.jpg http://fake.com/redalert2.jpg http://fake.com/redalert3.jpg
+Day of the tentactle
+   http://fake.com/dott1.jpg http://fake.com/dott2.jpg http://fake.com/dott3.jpg
+Doom
+   http://fake.com/doom1.jpg http://fake.com/doom2.jpg http://fake.com/doom3.jpg
+Wolfenstein
+   http://fake.com/wolfenstein1.jpg http://fake.com/wolfenstein2.jpg http://fake.com/wolfenstein3.jpg
+Call of duty
+   http://fake.com/callofduty1.jpg http://fake.com/callofduty2.jpg http://fake.com/callofduty3.jpg
+ 
+now lets get the first screenshot for the games in the RTS category
+
+http://fake.com/starcraft1.jpg
+http://fake.com/redalert1.jpg
+```
 
